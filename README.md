@@ -27,8 +27,8 @@ Este projeto demonstra o controle de uma matriz de LEDs WS2812, LEDs comuns e um
 ## Compilação e Execução
 1. Clone o repositório:
    ```sh
-   git clone <URL_DO_REPOSITORIO>
-   cd <NOME_DO_REPOSITORIO>
+   git clone https://github.com/jp242628/WS2812_Display.git
+   cd WS2812_Display.git
    ```
    
 2. Configure o ambiente, compile e carregue o código no Raspberry Pi Pico utilizando o ambiente de desenvolvimento de sua preferência.   
